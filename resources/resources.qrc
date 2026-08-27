@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="tray/tray.xpm">resources/tray.xpm</file>
+  </qresource>
+</RCC>
